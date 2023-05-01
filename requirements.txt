@@ -147,7 +147,7 @@ SQLAlchemy==1.4.26
 sqlparse==0.4.2
 srsly==1.0.5
 statsmodels==0.13.0
-streamlit==1.1.0
+streamlit
 streamlit-lottie==0.0.2
 streamlit-pandas-profiling==0.1.2
 tabulate==0.8.9
